@@ -1,3 +1,5 @@
-
-
-let negociacaoController = new NegociacaoController();
+class Main {
+    constructor() {
+        this.teste = 'teste';
+    }
+}
